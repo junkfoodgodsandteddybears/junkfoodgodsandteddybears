@@ -1,4 +1,8 @@
 <p align="center">
+<sup> ″ it's nice to meet you. please take care of me! ‶ </sup>
+</p>
+
+<p align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://files.catbox.moe/mu32h6.png">
  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/fcfk8r.png">
