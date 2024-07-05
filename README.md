@@ -1,8 +1,8 @@
 <p align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://files.catbox.moe/fcfk8r.png">
- <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/0azd9i.png">
- <img alt="lalalala" src="https://files.catbox.moe/fcfk8r.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://files.catbox.moe/mu32h6.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/fcfk8r.png">
+ <img alt="lalalala" src="https://files.catbox.moe/mu32h6.png">
 </picture>
  </p>
 <p align="center">
