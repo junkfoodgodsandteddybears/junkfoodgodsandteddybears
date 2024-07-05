@@ -14,8 +14,9 @@ socially awkward freak
 <p align="center">
 i love all of my friends!
 </p>
+
 <p align="center">
-<sup>hello charlotte fans please interact!</sup>
+<sup>Hello Charlotte fans int pls pls pls pls pls pls</sup>
 </p>
 
 <p align="center">
