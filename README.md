@@ -6,11 +6,18 @@
 </picture>
  </p>
 <p align="center">
-test
+charlotte <sup>or</sup> charlie
+</p>
+<p align="center">
+socially awkward freak
+</p>
+<p align="center">
+i love all of my friends!
 </p>
 <p align="center">
 <sup>hello charlotte fans please interact!</sup>
 </p>
+
 <p align="center">
     <img src="https://files.catbox.moe/le3qfi.png"/>
 </p>
